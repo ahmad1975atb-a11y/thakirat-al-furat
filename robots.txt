@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahmad1975atb-a11y.github.io/thakirat-al-furat/sitemap.xml
